@@ -12,7 +12,7 @@ def decode_char(code)
 end
 
 def decode_word(word_code)
-  code_split = word_code.split()
+  code_split = word_code.split
   code_split.map { |char| MORSE[char] }.join
 end
 
