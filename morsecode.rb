@@ -7,3 +7,10 @@ MORSE = {
     "--.." => "Z"
 }
 
+def decode_char(code)
+  MORSE[code] || ''
+end
+
+puts decode_char(".-")
+
+
