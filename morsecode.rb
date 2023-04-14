@@ -14,3 +14,10 @@ end
 puts decode_char(".-")
 
 
+def decode_word(word_code)
+  code_split = word_code.split(' ')
+  code_split.map {|char| MORSE[char]}.join
+ end
+ 
+ puts decode_word("-- -.--")
+ 
