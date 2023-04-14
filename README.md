@@ -100,11 +100,11 @@ Github pages
 
 > Mention all of the collaborators of this project.
 
-👤 **Jonas Nuta Wallah**
+👤 **Wullah Jonas Nuta**
 
-- GitHub: [@Jonas-45](https://github.com/jonas-45)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@jonas-45](https://github.com/jonas-45)
+- Twitter: [@jonaswullah](https://twitter.com/jonaswullah)
+- LinkedIn: [jonas-wullah](https://linkedin.com/in/jonas-wullah)
 
 👤 **Divine Asiriuwa**
 
